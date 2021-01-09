@@ -1,0 +1,32 @@
+.messages{
+    align-items: center;
+}
+
+.message-table{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+}
+
+.message-row{
+    width: 30%;
+}
+
+.error-message{
+    background-color: #F56236;
+    height: 30px;
+    margin: 10px;
+}
+
+.warning-message{
+    background-color: #FCE788;
+    height: 30px;
+    margin: 10px;
+}
+
+.info-message{
+    background-color: #88FCA3;
+    height: 30px;
+    margin: 10px;
+}
